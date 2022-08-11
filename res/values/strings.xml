@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="non_rare_cards">Обычные</string>
+    <string name="rare_cards">Редкие</string>
+    <string name="super_rare_cards">Очень редкие</string>
+    <string name="open_chest">Открыть сундук</string>
+    <string name="get_all">Получить все</string>
+    <string name="delete_all">Удалить все</string>
+</resources>
